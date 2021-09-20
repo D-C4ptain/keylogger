@@ -11,7 +11,7 @@ and send them to a third party.
 keylogger.py
 Records Key strokes from your keyboard.
 
-Emaillogs.py
+emaillogs.py
 Sends the generated keylog text file to some email.
 				
 

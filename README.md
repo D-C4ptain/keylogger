@@ -45,4 +45,4 @@ This shitty keylogger was created and is maintained by **[d_captainkenya](http:/
 
 ## Copyright and License
 
-Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/keylogger/LICENSE) license.
+Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/keylogger/blob/main/LICENSE) license.

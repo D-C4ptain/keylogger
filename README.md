@@ -23,7 +23,7 @@ Sends the generated keylog text file to some email.
 
 ## Download and Installation
 
-To See resume, choose one of the following options:
+To install, choose one of the following options:
 * Clone the repo: `git clone https://github.com/d-captainkenya/keylogger)`
 * [Fork, Clone, or Download on GitHub](https://github.com/d-captainkenya/keylogger)
 

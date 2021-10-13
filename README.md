@@ -30,7 +30,7 @@ To install, choose one of the following options:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this Resume? [Open a new issue](https://github.com/d-captainkenya/keylogger/issues) here on GitHub 
+Have a bug or an issue with this keylogger? [Open a new issue](https://github.com/d-captainkenya/keylogger/issues) here on GitHub 
 
 ## D_CAPTAINKENYA
 

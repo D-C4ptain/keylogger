@@ -9,10 +9,10 @@ and send them to a third party.
 ## About
 
 keylogger.py
-Records Key strokes from your keyboard.
+- Records Key strokes from your keyboard.
 
 emaillogs.py
-Sends the generated keylog text file to some email.
+- Sends the generated keylog text file to some email.
 				
 
 

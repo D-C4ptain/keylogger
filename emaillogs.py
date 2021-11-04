@@ -63,5 +63,5 @@ try:
         server.sendmail(sender_email, receiver_email, text)
     print("Done...")
 except:
-    print("Server or Internet Error ocurred")
+    print("Server or Internet Error ocurred\n Please enable less secure app access on your sender_email!")
 

@@ -34,7 +34,7 @@ Have a bug or an issue with this keylogger? [Open a new issue](https://github.co
 
 ## D_CAPTAINKENYA
 
-This shitty keylogger was created and is maintained by **[d_captainkenya]**
+This shitty keylogger was created and is maintained by **[d_captainkenya](https://d-captainkenya.github.io/)**
 * https://d-captainkenya.github.io/
 * https://twitter.com/d_captainkenya
 * https://d-captainkenya.medium.com

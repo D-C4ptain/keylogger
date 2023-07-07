@@ -18,32 +18,32 @@ emaillogs.py
 
 ## Preview
 
-**(https://github.com/d-captainkenya/keylogger)**
+**(https://github.com/d-c4ptain/keylogger)**
 
 
 ## Download and Installation
 
 To install, choose one of the following options:
-* Clone the repo: `git clone https://github.com/d-captainkenya/keylogger)`
-* [Fork, Clone, or Download on GitHub](https://github.com/d-captainkenya/keylogger)
+* Clone the repo: `git clone https://github.com/d-c4ptain/keylogger)`
+* [Fork, Clone, or Download on GitHub](https://github.com/d-c4ptain/keylogger)
 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this keylogger? [Open a new issue](https://github.com/d-captainkenya/keylogger/issues) here on GitHub 
+Have a bug or an issue with this keylogger? [Open a new issue](https://github.com/d-c4ptain/keylogger/issues) here on GitHub 
 
-## D_CAPTAINKENYA
+## D_C4PTAIN
 
-This shitty keylogger was created and is maintained by **[d_captainkenya](https://d-captainkenya.github.io/)**
-* https://d-captainkenya.github.io/
-* https://twitter.com/d_captainkenya
-* https://d-captainkenya.medium.com
-* https://github.com/d-captainkenya
+This shitty keylogger was created and is maintained by **[d-c4ptain](https://d-c4ptain.github.io/)**
+* https://d-c4ptain.github.io/
+* https://twitter.com/d-c4ptain
+* https://d-captain.medium.com
+* https://github.com/d-c4ptain
 * https://www.facebook.com/dee.captainkenya
 * https://www.youtube.com/channel/UCPPxJ2XmVOqfyvb39x_srKg
-* https://www.linkedin.com/in/dennis-masila-a48067160/
+* https://www.linkedin.com/in/dennis-masila/
 
 
 ## Copyright and License
 
-Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/keylogger/blob/main/LICENSE) license.
+Copyright 2013-2021 under the [MIT] (https://github.com/d-c4ptain/keylogger/blob/main/LICENSE) license.
